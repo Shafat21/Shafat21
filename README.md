@@ -8,7 +8,7 @@
 
 Why do you actually read this...
 
-<img align="right" height="215" width="325" alt="" src="https://cdn.discordapp.com/attachments/833753190859407411/897043954019753985/Cord_dj.gif" />
+<img align="right" alt="" src="https://cdn.discordapp.com/attachments/833753190859407411/897043954019753985/Cord_dj.gif" />
 
 
 ### My Discords
@@ -26,8 +26,8 @@ Why do you actually read this...
 ### ⚙️ &nbsp;GitHub Stats
 
 <p align="left">
-<a href="https://github.com/braxtongpoll">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=braxtongpoll&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/Shafat21">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shafat21&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=braxtongpoll&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
