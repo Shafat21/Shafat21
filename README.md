@@ -36,7 +36,7 @@ Why do you actually read this...
 
 ### ⚙️ My Resources & Tools:
 
-- OS: Windows 10
+- OS: Windows 11
 - Browser: Google Chrome
 - Code Editor: Sublime, Visual Studio Code, and Visual Studio
 - Stay Updated: [Discord](https://discord.gg/KxnXVNX455)
