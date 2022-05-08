@@ -1,8 +1,7 @@
 ## Hey 👋, I'm [Shafat!](https://developnest.com/)
 
 
-[![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/uyP3A4hvtG)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://developnest.com/)
+[![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/Yn7ctmKmvq)
 
 ### Glad to see you here! &nbsp; 
 
@@ -14,7 +13,7 @@ Why do you actually read this...
 ### My Discords
 
 - [My Hangout Discord](https://discord.gg/uyP3A4hvtG)
-- [My SyncMe Server](https://discord.gg/KxnXVNX455)
+- [My SyncMe Server](https://discord.gg/Yn7ctmKmvq)
 
 ### Languages and Tools:
 
