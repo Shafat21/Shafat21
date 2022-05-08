@@ -8,13 +8,13 @@
 
 Why do you actually read this...
 
-<img align="right" alt="" src="https://cdn.discordapp.com/attachments/833753190859407411/897043954019753985/Cord_dj.gif" />
+<img align="right" alt="" src="https://cdn.discordapp.com/attachments/892309916126179360/969934921915322429/Banner-01.png" />
 
 
 ### My Discords
 
 - [My Hangout Discord](https://discord.gg/uyP3A4hvtG)
-- [My Cord DJ Server](https://discord.gg/KxnXVNX455)
+- [My SyncMe Server](https://discord.gg/KxnXVNX455)
 
 ### Languages and Tools:
 
