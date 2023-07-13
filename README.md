@@ -12,7 +12,7 @@ Why do you actually read this...
 
 ### My Discords
 
-- [My Hangout Discord](https://discord.gg/uyP3A4hvtG)
+- [My Hangout Discord](https://discord.gg/bvmtFu5cJu)
 - [My SyncMe Server](https://discord.gg/Yn7ctmKmvq)
 
 ### Languages and Tools:
@@ -35,10 +35,10 @@ Why do you actually read this...
 
 ### ⚙️ My Resources & Tools:
 
-- OS: Windows 11
+- OS: Windows 10 and Mac OS
 - Browser: Google Chrome
 - Code Editor: Sublime, Visual Studio Code, and Visual Studio
-- Stay Updated: [Discord](https://discord.gg/KxnXVNX455)
+- Stay Updated: [Discord](https://discord.gg/bvmtFu5cJu)
 
 ---
 
