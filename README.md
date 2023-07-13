@@ -7,7 +7,7 @@
 
 Why do you actually read this...
 
-<img align="right" alt="" src="https://cdn.discordapp.com/attachments/892309916126179360/969934921915322429/Banner-01.png" />
+<img align="right" alt="" src="https://media.discordapp.net/attachments/970249904981176380/1129100507022114826/Banner-01.png?width=1440&height=346" />
 
 
 ### My Discords
