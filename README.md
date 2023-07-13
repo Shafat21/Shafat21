@@ -1,7 +1,7 @@
 ## Hey 👋, I'm [Shafat!](https://developnest.com/)
 
 
-[![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/Yn7ctmKmvq)
+[![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/bvmtFu5cJu)
 
 ### Glad to see you here! &nbsp; 
 
