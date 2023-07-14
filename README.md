@@ -25,14 +25,14 @@ Why do you actually read this...
 
 
 ### ⚙️ &nbsp;GitHub Stats
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shafat21&theme=tokyonight-duo&hide_border=true&mode=weekly&hide_total_contributions=true)](https://git.io/streak-stats)
 <p align="left">
 <a href="https://github.com/Shafat21">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shafat21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=braxtongpoll&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Shafat21&theme=tokyonight-duo&hide_border=true&mode=weekly&hide_total_contributions=true)](https://git.io/streak-stats)
+
 ---
 
 ### ⚙️ My Resources & Tools:
