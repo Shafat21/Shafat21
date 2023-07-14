@@ -21,16 +21,17 @@ Why do you actually read this...
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,c,cpp,css,discord,figma,gcp,github,heroku,html,ai,java,js,jquery,linkedin,lua,md,materialui,mongodb,netlify,nodejs,ps,php,powershell,pr,replit,svg,tailwind,twitter,vscode,wordpress,xd&perline=3)](https://skillicons.dev)
 
 ### ⚙️ &nbsp;GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shafat21)](https://github.com/Shafat21/github-readme-stats)
+
 <p align="left">
 <a href="https://github.com/Shafat21">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shafat21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=braxtongpoll&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 </p>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shafat21&theme=tokyonight-duo&hide_border=true&mode=weekly&hide_total_contributions=true)](https://git.io/streak-stats)
 ---
 
 ### ⚙️ My Resources & Tools:
