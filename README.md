@@ -23,7 +23,7 @@ Why do you actually read this...
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Stats
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <p align="left">
 <a href="https://github.com/Shafat21">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shafat21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
