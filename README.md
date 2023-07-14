@@ -16,12 +16,13 @@ Why do you actually read this...
 - [My SyncMe Server](https://discord.gg/Yn7ctmKmvq)
 
 ### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,c,cpp,css,discord,figma,gcp,github,heroku,html,ai,java,js,jquery,linkedin,lua,md,materialui,mongodb,netlify,nodejs,ps,php,powershell,pr,replit,svg,tailwind,twitter,vscode,wordpress,xd&perline=8)](https://skillicons.dev)&nbsp;
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,c,cpp,css,discord,figma,gcp,github,heroku,html,ai,java,js,jquery,linkedin,lua,md,materialui,mongodb,netlify,nodejs,ps,php,powershell,pr,replit,svg,tailwind,twitter,vscode,wordpress,xd&perline=3)](https://skillicons.dev)
+
 
 ### ⚙️ &nbsp;GitHub Stats
 
