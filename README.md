@@ -1,7 +1,5 @@
-## Hey 👋, I'm [Shafat!](https://developnest.com/)
+## Hey 👋, I'm [Shafat!](https://dragondesignstudio.com/)
 
-
-[![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/bvmtFu5cJu)
 
 ### Glad to see you here! &nbsp; 
 ![](https://komarev.com/ghpvc/?username=Shafat21&style=for-the-badge&color=grey)
