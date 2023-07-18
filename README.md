@@ -4,8 +4,7 @@
 [![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/bvmtFu5cJu)
 
 ### Glad to see you here! &nbsp; 
-![](https://komarev.com/ghpvc/?username=Shafat21)
-![](https://komarev.com/ghpvc/?username=Shafat21&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Shafat21&style=for-the-badge&color=grey)
 Why do you actually read this...
 
 <img align="right" alt="" src="https://media.discordapp.net/attachments/970249904981176380/1129100507022114826/Banner-01.png?width=1440&height=346" />
