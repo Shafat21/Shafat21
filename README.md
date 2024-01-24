@@ -15,7 +15,7 @@ Why do you actually read this...
 - [My SyncMe Server](https://discord.gg/Yn7ctmKmvq)
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,c,cpp,css,discord,figma,gcp,github,heroku,html,ai,java,js,jquery,linkedin,lua,md,reactjs,mongodb,netlify,nodejs,ps,php,powershell,pr,replit,svg,tailwind,twitter,vscode,wordpress,xd&perline=8)](https://skillicons.dev)&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,c,cpp,css,discord,figma,gcp,github,heroku,html,ai,java,js,jquery,linkedin,lua,md,react,mongodb,netlify,nodejs,ps,php,powershell,pr,replit,svg,tailwind,twitter,vscode,wordpress,xd&perline=8)](https://skillicons.dev)&nbsp;
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
