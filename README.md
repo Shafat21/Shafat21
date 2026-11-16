@@ -1,24 +1,34 @@
 ## Hey 👋, I'm [Shafat!](https://shafat21.online/)
 
-
-### Glad to see you here! &nbsp; 
+### Glad to see you here!
 ![](https://komarev.com/ghpvc/?username=Shafat21&style=for-the-badge&color=grey)
 
 Why do you actually read this...
 
-<img align="right" alt="" src="https://media.discordapp.net/attachments/970249904981176380/1129100507022114826/Banner-01.png?width=1440&height=346" />
+<p align="center">
+  <img alt="Banner" src="https://raw.githubusercontent.com/Shafat21/Shafat21/main/assets/banner.png" />
+</p>
 
+### 🚀 What I'm building
 
-### My Discords
+**[Dynamic Notch Island](https://github.com/Shafat21/DynamicNotch)**: a Dynamic Island for Windows and Linux.
+A pill at the top of your screen that turns into a dashboard: music with synced lyrics, calendar, weather,
+notes, reminders, clipboard history, offline voice dictation, and Pal, a companion for coding agents
+(Claude Code, Codex, Gemini CLI, Cursor, Copilot CLI) that lets you approve prompts right from the island.
+
+[![Dynamic Notch Island](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Shafat21&repo=DynamicNotch&theme=tokyonight&hide_border=true)](https://github.com/Shafat21/DynamicNotch)
+
+<img src="https://raw.githubusercontent.com/Shafat21/DynamicNotch/main/docs/screenshots/home.png" alt="Dynamic Notch Island dashboard" width="600" />
+
+### 💬 My Discords
 
 - [My Hangout Discord](https://discord.gg/bvmtFu5cJu)
 - [My SyncMe Server](https://discord.gg/Yn7ctmKmvq)
 
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=ai,ps,figma,bootstrap,css,html,js,jquery,lua,md,react,nodejs,php,powershell,mongodb,heroku,netlify,replit,tailwind,vscode,wordpress,discord,github,linkedin&perline=8)](https://github.com/Shafat21)&nbsp;
+### 🛠️ Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=rust,tauri,ts,js,react,nodejs,vite,tailwind,html,css,bootstrap,jquery,php,lua,sqlite,mongodb,powershell,git,github,vscode,windows,linux,figma,ai,ps,wordpress,netlify,heroku,replit,discord,md,linkedin&perline=8)](https://github.com/Shafat21)
 
-
-### ⚙️ &nbsp;GitHub Stats
+### 📊 GitHub Stats
 <p align="left">
 <a href="https://github.com/Shafat21">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shafat21&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -28,15 +38,13 @@ Why do you actually read this...
 
 ---
 
-### ⚙️ My Resources & Tools:
+### ⚙️ My Resources & Tools
 
-- OS: Windows 10 and Mac OS
-- Browser: Google Chrome
-- Code Editor: Sublime, Visual Studio Code, and Visual Studio
-- Stay Updated: [Discord](https://discord.gg/bvmtFu5cJu)
-
----
-
-<h3 align=center>Show some ❤️ by starring some of the repositories!</h3>
+- **OS:** Windows 11 and macOS
+- **Browser:** Google Chrome
+- **Code Editors:** Visual Studio Code, Visual Studio and Sublime Text
+- **Stay Updated:** [Discord](https://discord.gg/bvmtFu5cJu)
 
 ---
+
+<h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
