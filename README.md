@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Hey%20👋,%20I'm%20Shafat!&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Agentic%20Engineer%20·%20Full-Stack%20Developer&descAlignY=58&descSize=17" alt="Header" />
+  <img src="assets/header.svg" width="100%" alt="Hey, I'm Shafat! Agentic Engineer, Full-Stack Developer" />
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@ end to end with Next.js, TypeScript, Supabase and N8N automation, from a SaaS CR
 
 | Role | Where | When |
 |---|---|---|
-| **Agentic Engineer**: solo-built [OpenXCRM](https://openxcrm.com/), founding engineer of the [Al Quran Institute LMS](https://alquraninstitute.net), leading product for Contanto.ai, client platforms for Dragon Recruiting, Dragon Manpower, Dragon Medicare, WeMoveAbroad and BBS Consultancy | Bright Brain AI LTD · Remote | 2023 – now |
+| **Agentic Engineer**: solo-built [OpenXCRM](https://openxcrm.com/), founding engineer of the [Al Quran Institute LMS](https://alquraninstitute.net), leading product and technical strategy for Contanto.ai, client platforms for Dragon Recruiting, Dragon Manpower, Dragon Medicare, WeMoveAbroad and BBS Consultancy, plus the company site [BrightBrainAI.com](https://brightbrainai.com) | Bright Brain AI LTD · Remote | 2023 – now |
 | **FiveM RP Server & Discord Bot Developer**: ESX / QBCore systems in Lua and JS for GSRP and Commonwealth RP, Next.js server sites with live FiveM APIs, Discord.js bots (roles, tickets, Tebex, moderation) | Freelance · Remote | 2022 – 2023 |
 | **Lead Designer**: led the design team for a product launch, interactive prototypes | Mini Safeerul Quran · Dhaka | 2020 – 2021 |
 | **IT Consultant**: helped choose and roll out a new ERP system | Swan Design · Sylhet | 2020 |
@@ -145,5 +145,5 @@ end to end with Next.js, TypeScript, Supabase and N8N automation, from a SaaS CR
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=110&section=footer" alt="Footer" />
+  <img src="assets/footer.svg" width="100%" alt="Glass shards drifting along a ribbon" />
 </p>
