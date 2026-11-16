@@ -133,7 +133,6 @@ end to end with Next.js, TypeScript, Supabase and N8N automation, from a SaaS CR
 ### 💬 My Discords
 
 - [My Hangout Discord](https://discord.gg/bvmtFu5cJu)
-- [My SyncMe Server](https://discord.gg/Yn7ctmKmvq)
 
 ### ⚙️ My Setup
 
