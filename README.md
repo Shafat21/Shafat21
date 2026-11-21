@@ -138,7 +138,7 @@ end to end with Next.js, TypeScript, Supabase and N8N automation, from a SaaS CR
 
 - **OS:** Windows 11 and Linux (Arch / CachyOS)
 - **Browser:** Google Chrome
-- **Code Editors:** Visual Studio Code, Visual Studio and Sublime Text
+- **Code Editors:** Zed, Visual Studio Code, Visual Studio and Sublime Text
 - **Stay Updated:** [Discord](https://discord.gg/bvmtFu5cJu)
 
 <h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
